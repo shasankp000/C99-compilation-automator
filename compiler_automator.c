@@ -52,7 +52,7 @@ int main() {
 
         printf("Running program.....\n");
 
-        Sleep(2000); // delay for 3 seconds so as to read the message.
+        Sleep(2000); // delay for 2 seconds so as to read the message.
 
         system("cls");
 
