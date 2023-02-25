@@ -15,6 +15,7 @@ Otherwise the automator will print out the errors in your program and exit.
 ## Planned features to be added :
 
 I intend to make this program a lot like the rust compiler, which points out your errors and provides tips to fix it.
+
 Also plan to add linux support.
 
 
