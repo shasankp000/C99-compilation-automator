@@ -16,3 +16,10 @@ Otherwise the automator will print out the errors in your program and exit.
 
 I intend to make this program a lot like the rust compiler, which points out your errors and provides tips to fix it.
 Also plan to add linux support.
+
+
+# Usage:
+
+Just run the compiler_automator.c (make sure your code file is in the same directory as the automator)
+
+Although this will change in the next version, where I will add some cli args and path finding so that the file to be compiled doesn't have to necessarily stay in the same folder as the automator. 
